@@ -1,4 +1,7 @@
 #!/bin/python3.6
+#
+# Dev : Corentin
+
 import requests
 import time
 from slackclient import SlackClient
