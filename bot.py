@@ -1,6 +1,6 @@
 #!/bin/python3.6
 #
-# Dev : Corentin
+# Dev : F00b4rch
 
 import requests
 import time
